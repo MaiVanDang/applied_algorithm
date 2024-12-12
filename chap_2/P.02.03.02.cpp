@@ -1,3 +1,4 @@
+//Chapter 2 - Segment Tree Simulation - query Max
 #include<bits/stdc++.h>
 #define oo -1e+6
 #define MAX 100000
