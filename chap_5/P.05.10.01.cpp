@@ -1,3 +1,4 @@
+//Compute Strongly Connected Components of directed graphs
 #include <stdio.h>
 #include <bits/stdc++.h>
 #include <vector>
